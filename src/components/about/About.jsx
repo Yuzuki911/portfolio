@@ -37,12 +37,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Adxcfgvbhjnmkl,
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas porro, impedit dignissimos consequatur quod delectus ab quae voluptates aliquam animi earum praesentium itaque! Incidunt pariatur esse consequatur harum dignissimos quaerat.
           </p>
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
         </div>
       </div>
-
     </section>
   )
 }
